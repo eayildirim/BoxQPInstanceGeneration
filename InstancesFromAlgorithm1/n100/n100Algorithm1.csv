@@ -1,4 +1,4 @@
-Instance_Number,Relaxation_Bound,Solution_Time,Best_Objective_Value,Best_Lower_Bound,Duality_Gap,Solution_Status
+Instance_Number,Relaxation_Bound,Solution_Time,Best_Objective_Value,Best_Lower_Bound,Relative_Gap,Solution_Status
 1,-19082.0,0.003823995590209961,-19082.000000000007,-19082.000000000007,0.0,OPTIMAL
 2,-19185.0,0.0024368762969970703,-19185.000000000007,-19185.000000000007,0.0,OPTIMAL
 3,-18995.0,0.0024230480194091797,-18995.000000000007,-18995.000000000007,0.0,OPTIMAL
