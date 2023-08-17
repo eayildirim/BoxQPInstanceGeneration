@@ -56,5 +56,5 @@ Q[2,1],Q[2,2],...,Q[2,Y]
 .
 Q[Y,1],Q[Y,2],...,Q[Y,Y]
 
-(2b) nYAlgotihmX.csv contains the results of our experiments.
+(2b) nYAlgorithmX.csv contains the results of our experiments.
 
